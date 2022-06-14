@@ -2,13 +2,7 @@
 
 Demo Project for assessment purpose.
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-<br />
-<br />
-
-## Frameworks and Library
+##  Technologies used
 
 * Java 1.8
 * Spring MVC 5.1.8.RELEASE
