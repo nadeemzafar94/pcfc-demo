@@ -22,5 +22,5 @@ Demo Project for assessment purpose.
 5. Validation for First Name, Last Name, Date of Birth, Salary, Department
 
 ## Screenshots
-
-https://github.com/nadeemzafar94/pcfc-demo/blob/main/Screenshots/screenshot-localhost_8080-2022.06.15-04_10_31.png
+![Home Screen][homeScreen]
+[homeScreen]: https://github.com/nadeemzafar94/pcfc-demo/blob/main/Screenshots/screenshot-localhost_8080-2022.06.15-04_10_31.png "Home Screen of Employee Management System"
