@@ -23,5 +23,4 @@ Demo Project for assessment purpose.
 
 ## Screenshots
 
-![List of Employees at Home Screen][homeScreen]
 https://github.com/nadeemzafar94/pcfc-demo/blob/main/Screenshots/screenshot-localhost_8080-2022.06.15-04_10_31.png
