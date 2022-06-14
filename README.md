@@ -13,10 +13,15 @@ Demo Project for assessment purpose.
 * Java Server Pages
 * Tomcat version 8 or above
 
-Features Developed in this Application
+## Features Developed in this Application
 
 1. Add new Employee
 2. View All Employee List
 3. Update Employee Details
 4. View Individual Employee Details
 5. Validation for First Name, Last Name, Date of Birth, Salary, Department
+
+## Screenshots
+
+![List of Employees at Home Screen][homeScreen]
+https://github.com/nadeemzafar94/pcfc-demo/blob/main/Screenshots/screenshot-localhost_8080-2022.06.15-04_10_31.png
