@@ -5,7 +5,7 @@ Demo Project for assessment purpose.
 ##  Technologies used
 
 * Java 1.8
-* Spring MVC 5.1.8.RELEASE
+* Spring Framework 5.1.8.RELEASE
 * Hibernate 5.2.5.Final
 * H2 Database 1.4.200
 * Apache tiles 3.0.8
