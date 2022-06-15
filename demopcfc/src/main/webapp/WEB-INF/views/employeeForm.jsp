@@ -19,7 +19,7 @@
 						<form:errors path="firstName" cssClass="text-danger small" />
 					</div>
 					<div class="col-sm-6">
-						<form:input path="lastName" placeholder="First Name"
+						<form:input path="lastName" placeholder="Last Name"
 							cssClass="form-control form-control-user" />
 						<form:errors path="lastName" cssClass="text-danger small" />
 						
