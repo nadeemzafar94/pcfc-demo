@@ -6,9 +6,9 @@ Demo Project for assessment purpose.
 
 * Java `1.8`
 * Spring Framework `5.1.8.RELEASE`
-* Hibernate 5.2.5.Final
-* H2 Database 1.4.200
-* Apache tiles 3.0.8
+* Hibernate `5.2.5.Final`
+* H2 Database `1.4.200`
+* Apache tiles `3.0.8`
 * Freely availabe Html template
 * Java Server Pages
 * Tomcat version 8 or above
